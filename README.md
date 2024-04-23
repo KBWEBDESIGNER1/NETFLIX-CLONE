@@ -1,4 +1,4 @@
-- To see a demo of this homepage - [netflix-clone-by-kartik.onrender.com](https://netflix-clone-by-kartik.onrender.com.)
+- To see a demo of this homepage - https://netflix-clone-by-kartik.onrender.com
 - Netflix Clone Homepage (Kartik Bajaj)
 
 
